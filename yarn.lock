@@ -1925,10 +1925,10 @@ natural-compare@^1.4.0:
   resolved "https://registry.yarnpkg.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha1-Sr6/7tdUHywnrPspvbvRXI1bpPc=
 
-next-typed-api-with-swr@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/next-typed-api-with-swr/-/next-typed-api-with-swr-1.1.0.tgz#ce322f7b6b5bc9355b3b0eab4ef2a6d21c7f2831"
-  integrity sha512-s3tYQf34cBn3o8n75cAVgdGdKO068M/cIg5M6PpQ14KB0CmiMLgo0wZVIsXCQ0fb2RhBY2tJwjKhQJIzP8X9AQ==
+next-typed-api-with-swr@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/next-typed-api-with-swr/-/next-typed-api-with-swr-1.2.0.tgz#794b2070b75fa64a02d7333b04bbf1b4b1c4246f"
+  integrity sha512-hugpB/pOCAJiOKzLdGjssiRhMBQDjICekCaQ8Rhd7XbsdSvGeHj6/eJ6jJLHuygsfLPgIfaKW2EndKWIYIXY8w==
 
 next@12.0.7:
   version "12.0.7"
